@@ -1,0 +1,90 @@
+.MyContainer {
+	background-color: #424B54;
+	transform-style: preserve-3d;
+	margin-top: 5%;
+	border: 2px solid black;
+	height: 100%;
+
+}
+
+.MySpan {
+	background-color: #dae0ea;
+	border: 1px solid blue; 
+}
+
+.MySpan:hover {
+	background-color: #60c493;
+}
+
+.imgstyle {
+	height: 400px;
+}
+
+.text-color {
+	color: white;
+}
+
+
+.text-center {
+	text-decoration: none;
+	text-align: center;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.icon {
+	float: right;
+	margin: 1%;
+}
+
+/*about*/
+
+.IconSpan {
+	margin: 1% 0% 1% 0%;
+}
+
+.MeImg {
+	border-radius: 100%;
+}
+
+/*contact*/
+
+.ContactForm {
+	height: auto;
+}
+
+.formStyle {
+	margin-top: 2%;
+}
+
+.inputDesign {
+	border: none;
+	border-bottom: 1px solid black;
+}
+
+.btnDesign {
+	margin-bottom: 1px;
+	border: 1px solid blue;
+	border-radius: 10px;
+	background-color: #dae0ea;
+}
+
+.btnDesign:hover {
+	background-color: #60c493;
+}
+
+textarea {
+	border: 1px solid black;
+}
+
+/*Blog*/
+.ImgDiv {
+	height: 400px;
+	background-size: cover;
+}
+
+.text-space {
+	margin-bottom: 5%;
+}
+
+
