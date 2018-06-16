@@ -1,7 +1,7 @@
 .MyContainer {
 	background-color: #424B54;
 	transform-style: preserve-3d;
-	margin-top: 5%;
+	margin-top: 1%;
 	border: 2px solid black;
 	height: 100%;
 
@@ -86,5 +86,3 @@ textarea {
 .text-space {
 	margin-bottom: 5%;
 }
-
-
