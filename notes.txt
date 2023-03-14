@@ -1,0 +1,2 @@
+we will convert this repo to a completely native php website
+index.html will be replaced by index.php and so on
